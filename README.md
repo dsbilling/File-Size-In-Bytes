@@ -1,0 +1,2 @@
+# FSIB
+This is a simple application to check file size in bytes, built in Visual Basic. I made this back in 2013-2014 and I am now releasing it as open source since I have no more use for it where it was needed before.
